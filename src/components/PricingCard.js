@@ -16,7 +16,7 @@ const PricingCard = () => {
           <Link to="/contact" className="btn">PURCHASE NOW</Link>
         </div>
 
-        <div className="card">
+        {/* <div className="card">
           <h3>- PREMIUM -</h3>
           <span className="bar"></span>
           <p className="btc">$ 200</p>
@@ -25,7 +25,7 @@ const PricingCard = () => {
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
           <Link to="/contact" className="btn">PURCHASE NOW</Link>
-        </div>
+        </div> */}
 
         <div className="card">
           <h3>- BUSSINESS -</h3>
