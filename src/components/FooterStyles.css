@@ -26,6 +26,12 @@
 .location p{
     line-height: 30px;
 }
+.whatsapp{
+    color: #00ff00;
+}
+/* .whatsapp:visited{
+    color: #53c353;
+} */
 .right{
     height: 100%;
     max-width: 100%;
