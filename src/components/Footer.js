@@ -1,7 +1,7 @@
 import "./FooterStyles.css";
 
 import React from "react";
-import { FaFacebook, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone, FaTwitter, FaWhatsapp } from "react-icons/fa"
+import { FaFacebook, FaGithub, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone, FaTwitter, FaWhatsapp } from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -33,6 +33,7 @@ const Footer = () => {
                 +2349076788105</a>
             </h4>
           </div>
+        
         </div>
 
         <div className="right">
@@ -45,7 +46,8 @@ const Footer = () => {
             <a href="http://twitter.com"> <FaTwitter size={30} style={{ color: "rgb(81, 142, 234)", marginRight: "1rem" }} /></a>
             <a href="https://www.linkedin.com/in/daniel-dammy-850833238/"><FaLinkedin size={30} style={{ color: "rgb(81, 149, 234)", marginRight: "1rem" }} /></a>
             <a href="http://instagram.com/dah_nny_dee"><FaInstagram size={30} style={{ color: "rgb(210, 87, 56)", marginRight: "1rem" }} /></a>
-
+            <a className="github" href="https://"> <FaGithub size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+                </a>
 
 
           </div>
