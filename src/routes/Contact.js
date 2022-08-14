@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer";
+import Form from "../components/Form";
 import HeroImg2 from "../components/HeroImg2";
-// import myContact from "../components/myContact"
 import Navbar from "../components/Navbar";
 
 const Contact = () => {
@@ -9,7 +9,7 @@ const Contact = () => {
     <div>
       <Navbar />
       <HeroImg2 heading="Contact" text="Lets Have a chat" />
-      {/* <myContact /> */}
+      <Form/>
       <Footer />
     </div>
   ); 
