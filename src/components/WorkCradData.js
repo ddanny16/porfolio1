@@ -7,21 +7,21 @@ const ProjectCardData=[
         title:" Social media dashboard",
         text:"Dahboard Theme change adjustable for user preferences.Daniel inspires a grounded tangible and self-affirming sense of WOW AMAZING  ", 
         view:"https://dashboard-remake.netlify.app/",
-        
+        source:"https://unsplash.com/",
     },
     {
         imgsrc: pro2,
         title:" Time Tracking dashboard",
         text:"Time tracking component adjustable for user preferences.Daniel inspires a grounded tangible and self-affirming sense of WOW AMAZING  ", 
         view:"https://dashboard-remake.netlify.app/",
-        
+        source:"https://unsplash.com/",
     },
     {
         imgsrc: pro3,
         title:" E-commerce Website",
-        text:"Get BUY & VIEW items for personal use or external use.Shop online for wears and accessories.And support us too ", 
+        text:"Get BUY & VIEW items for personal use or external use.Shop online for wears and accessories.And support us  ", 
         view:"https://dans-ecommerce.netlify.app/",
-        
+        source:"https://unsplash.com/",
     },
     // {
     //     imgsrc: pro3,
