@@ -1,6 +1,6 @@
  import pro1 from "../assets/project5.jpg"
  import pro2 from "../assets/project3.png"
- import pro3 from "../assets/project4.png"
+ import pro3 from "../assets/project4.jpg"
 const ProjectCardData=[
     {
         imgsrc: pro1,
@@ -18,9 +18,9 @@ const ProjectCardData=[
     },
     {
         imgsrc: pro3,
-        title:" Social media dashboard",
-        text:"Dahboard Theme change adjustable for user preferences.Daniel inspires a grounded tangible and self-affirming sense of  ", 
-        view:"https://dashboard-remake.netlify.app/",
+        title:" E-commerce Website",
+        text:"Get BUY & VIEW items for personal use or external use.Shop online for wears and accessories.And support us too ", 
+        view:"https://dans-ecommerce.netlify.app/",
         source:"https://unsplash.com/",
     },
     // {
